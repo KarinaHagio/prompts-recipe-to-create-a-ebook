@@ -27,5 +27,7 @@ ChatGPT：
 
 ## Link 
 
+- [(https://github.com/KarinaHagio/prompts-recipe-to-create-a-ebook/blob/main/eBook%20-%20IA.pdf)]
+
 
 
